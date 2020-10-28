@@ -15,3 +15,4 @@ word-count
    usage.rst
    credit.rst
    exercises.rst
+   This is some new blah blah for testing
